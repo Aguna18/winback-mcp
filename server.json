@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.Aguna18/winback",
+  "title": "Winback",
+  "description": "Win back cancelled, billing-failed and expired-trial subscribers of RevenueCat and Stripe apps.",
+  "repository": {
+    "url": "https://github.com/Aguna18/winback-mcp",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "websiteUrl": "https://winbackhq.com/agents/",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://winbackhq.com/mcp/"
+    }
+  ]
+}
